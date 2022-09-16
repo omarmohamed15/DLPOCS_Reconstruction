@@ -7,3 +7,8 @@ We propose to denoise and reconstruct the 3D seismic data simultaneously using a
 We use an iterative process to reconstruct the 3D highly incomplete seismic data. For each iteration, we utilize the deep learning framework to denoise the 3D seismic data and initially reconstruct the missing traces.
 Then, the projection onto convex sets (POCS) algorithm is utilized for further enhancement of the seismic data reconstruction. The output of the POCS is considered as the input for the deep learning network in the next iteration. 
 We use a patching technique to extract 3D seismic patches. Since the proposed deep learning network consists of several fully connected layers, each extracted patch needs to be converted to a 1D vector. Besides, we utilize an attention mechanism to enhance the learning capability of the proposed deep learning network. We evaluate the performance of the proposed framework using several synthetic and field examples and find that the proposed method outperforms all benchmark methods.
+
+How to Run:
+1- Run DenseNet3D.m to reconstruct the 3D seismic data.
+2- Run SConstruct to plot the results.
+
