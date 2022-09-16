@@ -1,4 +1,4 @@
-Unsupervised deep learning for 3D interpolation of highly incomplete data
+Unsupervised deep learning for 3D interpolation of highly incomplete data \\
 Omar M. Saad, Sergey Fomel, Ray Abma, Yangkang Chen
 Geophysics 88(1), 2022.
 
