@@ -9,6 +9,8 @@ Then, the projection onto convex sets (POCS) algorithm is utilized for further e
 We use a patching technique to extract 3D seismic patches. Since the proposed deep learning network consists of several fully connected layers, each extracted patch needs to be converted to a 1D vector. Besides, we utilize an attention mechanism to enhance the learning capability of the proposed deep learning network. We evaluate the performance of the proposed framework using several synthetic and field examples and find that the proposed method outperforms all benchmark methods.
 
 How to Run:
+
 1- Run DenseNet3D.m to reconstruct the 3D seismic data.
+
 2- Run SConstruct to plot the results.
 
