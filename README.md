@@ -1,7 +1,20 @@
 Unsupervised deep learning for 3D interpolation of highly incomplete data
 
-Omar M. Saad, Sergey Fomel, Ray Abma, Yangkang Chen
-Geophysics 88(1), 2022.
+# Citation 
+
+BibTeX:
+
+@article{DLPOCS2023,
+  title={Unsupervised deep learning for 3D interpolation of highly incomplete data},
+  author={Saad, Omar M and Fomel, Sergey and Abma, Raymond and Chen, Yangkang},
+  journal={Geophysics},
+  volume={88},
+  number={1},
+  pages={WA189--WA200},
+  year={2022},
+  publisher={Society of Exploration Geophysicists and American Association of Petroleum~…}
+}
+--------------------------------------------------------------------------------------------
 
 We propose to denoise and reconstruct the 3D seismic data simultaneously using an unsupervised deep learning framework, which does not require any prior information about the seismic data and is free of labels.
 We use an iterative process to reconstruct the 3D highly incomplete seismic data. For each iteration, we utilize the deep learning framework to denoise the 3D seismic data and initially reconstruct the missing traces.
