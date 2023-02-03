@@ -1,6 +1,6 @@
 Unsupervised deep learning for 3D interpolation of highly incomplete data
 
-# Citation 
+## Reference
 
 BibTeX:
 
