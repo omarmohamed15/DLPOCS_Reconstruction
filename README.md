@@ -6,16 +6,15 @@ Saad, Omar M., Sergey Fomel, Raymond Abma, and Yangkang Chen. "Unsupervised deep
 
 BibTeX:
 
-@article{DLPOCS2023,
-  title={Unsupervised deep learning for 3D interpolation of highly incomplete data},
-  author={Saad, Omar M and Fomel, Sergey and Abma, Raymond and Chen, Yangkang},
-  journal={Geophysics},
-  volume={88},
-  number={1},
-  pages={WA189--WA200},
-  year={2022},
-  publisher={Society of Exploration Geophysicists and American Association of Petroleum~…}
-}
+  @article{DLPOCS2023,
+    title={Unsupervised deep learning for 3D interpolation of highly incomplete data},
+    author={Saad, Omar M and Fomel, Sergey and Abma, Raymond and Chen, Yangkang},
+    journal={Geophysics},
+    volume={88},
+    number={1},
+    pages={WA189--WA200},
+    year={2022},
+  }
 -----------
 
 We propose to denoise and reconstruct the 3D seismic data simultaneously using an unsupervised deep learning framework, which does not require any prior information about the seismic data and is free of labels.
